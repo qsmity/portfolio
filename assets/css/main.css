@@ -3195,3 +3195,8 @@ input, select, textarea {
 	.github-link {
 		font-size: 2.5rem;
 	}
+
+	/* name  */
+	.name {
+		color: rgba(192, 192, 192, 0.904) !important
+	}
