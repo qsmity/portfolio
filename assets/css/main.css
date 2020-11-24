@@ -2406,7 +2406,7 @@ input, select, textarea {
 				border-right: solid 0.75em rgba(64, 64, 64, 0);
 			}
 
-#nav {
+#nav > ul > li {
 	color: rgba(170, 168, 168, 0.904) !important
 }
 
