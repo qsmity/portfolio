@@ -3160,6 +3160,8 @@ input, select, textarea {
 	.skills-icons {
 		font-size: 8rem;
 		margin: 0 10px;
+		padding: 10px;
+
 	}
 
 	.flask-icon {
